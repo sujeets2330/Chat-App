@@ -53,26 +53,6 @@ npm run build
 ```shell
 npm start
 ```
-### Project Structure
-
-Assignment/
-│
-├── backend/                # Express + MongoDB + Socket.io server
-│   ├── lib/                # Database, utils, socket, cloudinary
-│   ├── models/             # User & Message models
-│   ├── routes/             # Auth & Message routes
-│   ├── controllers/        # Business logic
-│   ├── middleware/         # Auth middleware
-│   └── index.js            # Main entrypoint
-│
-├── frontend/               # React + Vite client
-│   ├── components/         # Navbar, Message components, etc.
-│   ├── pages/              # Login, Signup, Home, Profile, Settings
-│   ├── store/              # Zustand state stores
-│   ├── App.jsx             # Main App with routes
-│   └── index.css           # Global styles
-│
-└── README.md
 
 ### Tech Stack
 Frontend: React, Vite, TailwindCSS, DaisyUI, Zustand
@@ -93,6 +73,7 @@ File sharing (PDF, Docs)
 
 Push notification
 
+#### Views
 ![Sample User 1](sample-users/Sample-user1.png)
 
 ![Sample User 1](sample-users/sample-user2.png)
