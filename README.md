@@ -73,8 +73,8 @@ File sharing (PDF, Docs)
 
 Push notification
 
-#### Views
-![Sample User 1](sample-users/Sample-user1.png)
+###### Views 
+![Sample User 1](sample users\Sample user1.png)  
 
-![Sample User 1](sample-users/sample-user2.png)
+![Sample User 1](sample users\sample user2.png
 
